@@ -1,0 +1,9 @@
+Building YoshiCoin
+
+See doc/readme-qt.rst for instructions on building YoshiCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of YoshiCoin.
+
+See doc/build-*.txt for instructions on building YoshiCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of YoshiCoin.
